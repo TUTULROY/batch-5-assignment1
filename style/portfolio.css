@@ -79,6 +79,7 @@ align-items: center;
 border-radius: 16px;
 color: #fff;
 margin: 20px 300px 20px 300px; 
+
 }
 .d2-title-1{
     color: #FFF;
@@ -110,4 +111,13 @@ width: 120px;
 height: 24px;
 background: none;
 border: none;
+}
+/* main 3rd div */
+.color{
+    color: #F00;
+}
+.main-d3{
+    width: 1320px;
+height: 482px;
+fill: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
 }
