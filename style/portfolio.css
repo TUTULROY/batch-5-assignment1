@@ -143,3 +143,246 @@ border: none;
     border-radius: 6px;
     border: none;
 }
+/* main div four start */
+.main-2nd{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 1320px;
+    height: 600px;
+    /* justify-content: center; */
+    /* margin: 100px 280px 20px;
+    display: flex;
+    align-items: center; */
+
+}
+.main-ul-1{
+
+    width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+
+}
+
+
+.up-coming{
+    color: #070211;
+}
+
+.main-d5-img{
+
+    padding: 20px;
+    width: 364.844px;
+    height: 364.844px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 15px solid #F00;
+    border-radius: 100%;
+    border-color: red;
+}
+.main-3rd{
+    
+    margin-top: 100px;
+    text-align: center;
+}
+.dolor-desp-2{
+    width: 1068px;
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+
+font-weight: 500;
+line-height: 32px; /* 160% */
+}
+.main-d7-image-1{
+    position: relative;
+    top: 366px;
+    left: 200px;
+
+}
+.main-d7-image-2{
+    height: 400px;
+    width: 500px;
+    position: relative;
+    left: 150px;
+    bottom: 120px;
+    margin-bottom: 30px;
+}
+.main-d7-image-3{
+    position: relative;
+    left: 465px;
+    bottom: 300px;
+}
+.main-d7-image-4{
+    right: 120px;
+    bottom: 350px;
+    position: relative;
+}
+/* main-4th start */
+
+.main-4th{
+    margin: 0 auto;
+    margin-top: 250px;
+    width: 1320px;
+    height: 1150px;
+}
+.main-4th-title-1{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+.title-2{
+
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.dolor-desp-3{
+width: 896px;
+color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+font-weight: 400;
+}
+.main-d8-image-5{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1px;
+    margin-left: 1px;
+}
+.main-d9-image-6{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1px;
+    margin-left: 1px;
+}
+/* Subscribe-section start */
+.Subscribe-section{
+    text-align: center;
+    margin: 0 auto;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+
+}
+
+
+.subscriber-title{
+
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 900;
+}
+.subscriber-desp{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-size: 28px;
+    font-weight: 400;
+}
+.table-container{
+    display: flex;
+    justify-content: center;
+ flex-shrink: 0;
+  text-align: center;
+  
+}
+.sub-input{
+    width: 648px;
+height: 71px;
+flex-shrink: 0;
+border-radius: 18px;
+background-color: #FFF;
+color: #F00;
+border-color: #FFF;
+}
+.sub-btn{
+    width: 210px;
+
+    height: 72px;
+color: #FFF;
+    flex-shrink: 0;
+    background-color: #F00;
+    border-radius: 18px;
+    border-color: #FFF;
+}
+/* footer section start */
+
+.footer{
+background-color: #070211;
+    width: 1600px;
+height: 609px;
+flex-shrink: 0; 
+}
+.footer-d1{
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+}
+.footer-p{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+width: 375px;
+height: 50px;
+padding: 100px 50px;
+}
+.footer-contact{
+    padding:100px 50px;
+    /* display: flex; */
+    color: #fff;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+ 
+
+}
+.footer-phone{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-website{
+    display: flex;
+    justify-content: space-between;
+}
+
+/* footer 2nd div style icons */
+.footer-d2-icons{
+    text-align: center;
+}
+/* footer 3rd div style */
+.footer-d3{
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+
+}
+.footer-d4-p1{
+    font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+width: 295px;
+height: 29px;
+padding: 100px 50px;
+}
+.footer-d4-p2{
+    font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+width: 145px;
+height: 29px;
+padding: 100px 50px;
+}
